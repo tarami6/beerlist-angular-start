@@ -6,5 +6,4 @@ app.use(express.static('node_modules'));
 
 app.listen(8000, function() {
   console.log("Fullstack project. Listening on 8000.")
-
 });
